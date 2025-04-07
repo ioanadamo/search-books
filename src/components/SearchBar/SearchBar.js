@@ -8,7 +8,6 @@ function SearchBar({ onSearch }) {
         placeholder="Search..."
         onChange={onSearch}
       />
-      <button>Search</button>
     </div>
   );
 }
